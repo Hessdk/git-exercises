@@ -25,7 +25,7 @@ public class Main {
             }
             if (!checker) {
                 System.out.println(i);
-            }
+            }   
 
         }
         return 1;
