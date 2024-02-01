@@ -1,6 +1,8 @@
 
 public class Main {
+
     public static void main(String[] args) {
+       printNumbers(1,100);
         int num = 200;
         for (int i = 1; i <  num; i++){
             String str = "";
@@ -13,6 +15,12 @@ public class Main {
             System.out.print(str);
         }
         System.out.println("lol git");
+    }
+    public static void printNumbers(int start, int end){
+        for (int i = start; i <= end; i++){
+            System.out.println(i);
+        }
+
     }
 }
 
