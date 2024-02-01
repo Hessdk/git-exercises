@@ -3,10 +3,9 @@ package org.example;
 public class Main {
 
     public static void main(String[] args) {
-        Main main = new Main();
-        main.writeNumbers();
 
     }
+<<<<<<< HEAD
 
     public int writeNumbers() {
 
@@ -30,4 +29,6 @@ public class Main {
         }
         return 1;
     }
+=======
+>>>>>>> 7b1d835d24ea3a73ecc215e6c7d951e88befe8d0
 }
