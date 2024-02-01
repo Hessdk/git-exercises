@@ -13,5 +13,6 @@ public class Main {
             str = (i < num - 1) ? str + ", " : str;
             System.out.print(str);
         }
+        System.out.println("lol git");
     }
 }
