@@ -3,7 +3,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         int num = 100;
-        for (int i = 1; i < num; i++){
+        for (int i = 1; i <  num; i++){
             String str = "";
             if (i % 3 == 0)
                 str += "Fizz";
